@@ -6,7 +6,7 @@ Recognizing there are multiple ways in which developers want to be able to get a
 
 ## Unity Asset downloadable from the MRTK GitHub site
 
-You can download the packaged [Unity Asset from here](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases) for importing in to your project.
+You can download the packaged [Unity Asset from here]242387527827(https://github.com/Microsoft/MixedRealityToolkit-Unity/releases) for importing in to your project.
 
 ## Unity NuGet delivery (*Coming soon*)
 
